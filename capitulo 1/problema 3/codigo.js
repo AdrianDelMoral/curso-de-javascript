@@ -29,7 +29,7 @@ else {
 
 
 if (cofla == 1) {
-	alert("cofla mintió, no darle descarga")
+	alert("cofla mintió, darle descarga")
 }
 else if (cofla == 2) {
 	alert("cofla no mintió, no darle descarga")
